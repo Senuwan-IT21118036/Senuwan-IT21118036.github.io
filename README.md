@@ -18,10 +18,10 @@
 				<input type="password" name="" required="">
 				<label>Password</label>
 			</div>
-			<a href="#">
+			<a href="https://mail.google.com/mail/u/0/#inbox">
 				<input type="submit" name="" value="Login">
 			</a>
-			<p class="signup-link">Don't have an account? <a href="#">Sign up</a></p>
+			<p class="signup-link">Don't have an account? <a href="https://mail.google.com/mail/u/0/#inbox">Sign up</a></p>
 		</form>
 	</div>
 </body>
